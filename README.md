@@ -6,3 +6,8 @@
 [![x86](https://img.shields.io/badge/arch-x86-red.svg?style=plastic)](https://en.wikipedia.org/wiki/X86) 
 
 Free open-source cheat software for CS:GO. Designed to be a DLL loadable into a discord UI proccess. 
+
+## FAQ
+
+### How does it work?
+Discord-Hook injects into a discord proccess, then reads and writes proccess memory of csgo using C functions found in memoryapi.h
