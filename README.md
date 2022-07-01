@@ -11,3 +11,12 @@ Free open-source cheat software for CS:GO. Designed to be a DLL loadable into a 
 
 ### How does it work?
 Discord-Hook injects into a discord proccess, then reads and writes proccess memory of csgo using C functions found in memoryapi.h
+
+### Is it detected?
+As of 6/30/2022, Discord-Hook IS NOT detected, but that DOES NOT mean that it will never be detected. All public cheats are detected with time.
+
+## License
+
+> Copyright (c) 2018-2022 Daniel Krupiński
+
+This project is licensed under the [MIT License](https://opensource.org/licenses/mit-license.php) - see the [LICENSE](https://github.com/UntitledEntity/Discord-Hook/blob/main/LICENSE) file for details.
