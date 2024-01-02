@@ -23,4 +23,4 @@ This project is licensed under the [MIT License](https://opensource.org/licenses
 
 ## Disclaimer
 
-If you're going to use this, please let it be HVH and not breaking any servers TOS.
+I do not condone cheating; this is meant to be a POC, and <b>this does not work in CS2</b>.
